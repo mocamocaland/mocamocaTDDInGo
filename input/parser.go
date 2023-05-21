@@ -1,7 +1,7 @@
 package input
 
 import (
-	"github.com/mocamocaland/mocamocaTDDInGo/calculator"
+	"github.com/mocamocaland/tdd-in-go-sample/calculator"
 )
 
 type Parser struct {
