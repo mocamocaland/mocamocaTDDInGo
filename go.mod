@@ -1,3 +1,3 @@
-module tdd-in-go-sample
+module github.com/mocamocaland/tdd-in-go-sample
 
 go 1.20
