@@ -1,7 +1,7 @@
 package input
 
 import (
-	"mocamocaTDDInGo/calculator"
+	"github.com/mocamocaland/tdd-in-go-sample/tdd-in-go-sample/calculator"
 )
 
 caluculator
