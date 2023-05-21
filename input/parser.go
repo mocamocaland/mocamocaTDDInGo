@@ -1,14 +1,11 @@
 package input
 
 import (
-	"github.com/mocamocaland/tdd-in-go-sample/calculator"
-
+	"github.com/mocamocaland/mocamocaTDDInGo/calculator"
 )
 
-caluculator
-
 type Parser struct {
-	engine *calculator.Engine
+	engine    *calculator.Engine
 	validator *Validator
 }
 

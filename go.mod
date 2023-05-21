@@ -1,3 +1,3 @@
-module tdd-in-go-sample
+module  mocamocaTDDInGo
 
 go 1.20
