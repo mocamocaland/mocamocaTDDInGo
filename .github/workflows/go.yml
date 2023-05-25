@@ -25,4 +25,4 @@ jobs:
 #      run: go build -v ./.../calculator/engine.go
 
     - name: Test
-      run: go test -v ./calculator
+      run: go test -v ./...  -coverprofile=coverage.out
